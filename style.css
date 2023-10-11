@@ -1,0 +1,26 @@
+.header{
+        background: rgb(189, 109, 19);
+        height: 3em;
+        border: 1px solid black;
+    
+}
+
+.footer {
+    background: rgb(129, 182, 31);
+    height: 3em;
+    border: 1px solid black;
+    clear: both;
+}
+
+.main {
+    background-color: rgb(207, 202, 198);
+    width: 65%;
+    float: right;
+    border: 1px solid rgb(118, 120, 126);
+}
+.sidebar {
+    background-color: rgb(236, 169, 80);
+    width: 34%;
+    float: left;
+    border: 1px solid rgb(236, 165, 71);
+}
