@@ -1,0 +1,57 @@
+.container2 {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+
+.header2 {
+    padding: 26px;
+    width:95%;
+    height: 75px;
+    background-color: orange;
+}
+
+.logo2 {
+    padding: 20px;
+    size: 15%;
+    background-color: rgb(216, 67, 92);
+	float: left;
+}
+
+.navigation2 {
+    padding:20px;
+    background-color: rgb(175, 69, 27);
+	float: right;
+}
+
+
+
+.main2{
+    padding: 20%;
+    background-color: grey;
+	float: middle;
+	width: 75%;
+	height: 280px;
+}
+
+.footer2 {
+    margin-bottom: -10%;
+    padding-top:10%;
+    height:30%;
+    background-color: rgb(236, 177, 13);
+}
+
+.post{
+    margin-top:-15%;
+    height: 75px;
+    width:75%;
+    background-color: lime;
+}
+.post2{
+    margin-top:-15%;
+    height: 75px;
+    width:75%;
+    background-color: lime;
+}
+
+
